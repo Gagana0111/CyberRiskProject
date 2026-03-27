@@ -1,0 +1,4 @@
+ip,port,service,risk_score
+scanme.nmap.org,22,ssh,3
+scanme.nmap.org,80,http,6
+scanme.nmap.org,445,smb,9
